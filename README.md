@@ -13,7 +13,7 @@ A simple portfolio template for developer/designers built with React.
 - React-Bootstrap
 - Unique Design
 - Dark & Light Mode Support
-
+ 
 ## Sections of the Portfolio
 
 The portfolio website consists of the following sections:
