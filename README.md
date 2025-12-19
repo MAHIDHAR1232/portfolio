@@ -22,7 +22,7 @@ The portfolio website consists of the following sections:
 - **Skills**: A detailed list of my technical skills.
 - **Projects**: A showcase of the projects I've worked on.
 - **Contact**: Information on how to reach out to me.
-
+  
 ---
 
 ## 💻 Technologies Used
