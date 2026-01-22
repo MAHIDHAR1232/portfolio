@@ -5,7 +5,6 @@ A simple portfolio template for developer/designers built with React.
 ### [live preview](https://ubaimutl.github.io/react-portfolio/)
 
 ![image alt](https://github.com/MAHIDHAR1232/Portfolio/blob/main/Screenshot.png?raw=true)
-
 ### Features
 
 - Fully Responsive
